@@ -1,7 +1,7 @@
 {
     "sumber_data": "OpenStreetMap",
     "endpoint": "https://overpass-api.de/api/interpreter",
-    "waktu_akuisisi_utc": "2026-11-12T07:08:12.621729+00:00",
+    "waktu_akuisisi_utc": "2026-11-12T07:25:18.628158+00:00",
     "jumlah_data": 32,
     "file_raw": "data/raw/osm_akomodasi_kintamani_20261112_070556.json",
     "md5": "2bf133ba5df6092961fa1f97dd1059d0",
