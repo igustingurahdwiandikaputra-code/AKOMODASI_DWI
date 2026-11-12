@@ -1,1 +1,0 @@
-# AKOMODASI_DWI
