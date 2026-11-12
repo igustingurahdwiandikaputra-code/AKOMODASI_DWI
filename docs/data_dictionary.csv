@@ -1,0 +1,12 @@
+Nama Kolom,Keterangan,Tipe Data
+osm_type,Jenis objek OpenStreetMap,Teks
+osm_id,ID unik objek OpenStreetMap,Integer
+nama,Nama akomodasi,Teks
+jenis,Kategori akomodasi,Teks
+lat,Koordinat lintang,Float
+lon,Koordinat bujur,Float
+desa,Nama desa akomodasi,Teks
+bintang,Jumlah bintang akomodasi,Teks
+jumlah_kamar,Jumlah kamar akomodasi,Teks
+website,Alamat website akomodasi,Teks
+url_osm,Tautan objek OpenStreetMap,Teks

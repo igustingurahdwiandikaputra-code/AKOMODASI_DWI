@@ -1,0 +1,11 @@
+osm_type,osm_id,nama,jenis,lat,lon,desa,bintang,jumlah_kamar,website,url_osm,status_verifikasi,sumber_verifikasi,catatan
+node,13068182153,Batur Sunrise Guesthouse,hotel,-8.2490202,115.400863,,,,,https://www.openstreetmap.org/node/13068182153,Sesuai,,-
+node,6451134585,Caldera,hotel,-8.2791389,115.3673639,,,,,https://www.openstreetmap.org/node/6451134585,Sesuai,,-
+node,9769685089,Bunbulan Panorama Villas,guest_house,-8.2227355,115.3979713,,,,,https://www.openstreetmap.org/node/9769685089,Sesuai,,-
+node,7058054537,Segara Hotel,hotel,-8.2780864,115.3791336,,,,,https://www.openstreetmap.org/node/7058054537,Sesuai,,-
+node,5065920543,The Volcania Guesthouse,hotel,-8.2837958,115.3652416,,,,,https://www.openstreetmap.org/node/5065920543,Jenis berbeda,,Jenis akomodasi tidak sesuai
+node,5175562421,Entrance to: Bunbulan Hill Hostel,hostel,-8.2220144,115.3953491,,,,,https://www.openstreetmap.org/node/5175562421,Perlu pemeriksaan objek,,Nama objek menunjukkan titik pintu masuk hostel
+node,13284479326,Lava Bali and Hot Spring,hotel,-8.2503106,115.3963742,,,,,https://www.openstreetmap.org/node/13284479326,Sesuai,,-
+node,9778735917,Villa Jempana,hotel,-8.2311582,115.4105557,,,,,https://www.openstreetmap.org/node/9778735917,Sesuai,,-
+node,5479746121,Hut,chalet,-8.2426933,115.387587,,,,,https://www.openstreetmap.org/node/5479746121,Tidak ditemukan,,Tidak berhasil ditemukan
+node,1977779907,The Lakeview Hotel Bali,hotel,-8.2831398,115.3658438,,,,http://lakeviewbali.com/en/,https://www.openstreetmap.org/node/1977779907,Sesuai,,-
